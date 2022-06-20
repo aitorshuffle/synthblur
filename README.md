@@ -1,1 +1,2 @@
-Pytorch code and models to be added soon.
+This repository contains the code, info and predictions to facilitate reproducibility corresponding to the paper _A. Alvarez-Gila, A. Galdran, E. Garrote, and J. van de Weijer, “Self-supervised blur detection from synthetically blurred scenes,” Image and Vision Computing, vol. 92, p. 103804, Dec. 2019._
+ 
