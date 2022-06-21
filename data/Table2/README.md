@@ -1,1 +1,1 @@
-These folders contain the predictions of our method corresponding to the DF and MT columns (i.e. test subsets) in Table 2 of the paper.
+These folders contain the predictions of our method corresponding to the _DF_ and _MT_ columns (i.e. test subsets) in Table 2 of the paper.

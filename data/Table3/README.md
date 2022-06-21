@@ -1,1 +1,1 @@
-These folders contain the predictions of our method corresponding to the _Ours self-supervised_ and _Ours weakly-supervised_ rows in Table 3 of the paper.
+These folders contain the predictions of our method corresponding to the _Ours self-supervised_ and _Ours weakly supervised_ rows in Table 3 of the paper.

@@ -1,0 +1,1 @@
+These folders contain the subset partitions, configuration hyperparameters and the predictions of our method corresponding to the _Ours self-supervised_, _Ours weakly supervised_ and _Ours semi-supervised_ rows in Table 1 of the paper.
